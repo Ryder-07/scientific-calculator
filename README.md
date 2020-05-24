@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+## Welcome to scientific calculator
+##made by:rudra pratap singh(kunal)
 
 You can use the [editor on GitHub](https://github.com/kunal1209/scientific-calculator/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
